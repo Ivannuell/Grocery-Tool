@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+#main_table{
+    width: 100%;
+}
+
+#total {
+    color: red;
+}
